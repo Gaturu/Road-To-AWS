@@ -10,7 +10,7 @@ This repository documents my journey as I prepare for the AWS Certified Solution
 
 Whether you're just starting or you're already in the cloud, you're welcome to learn with me.
 
-🧭 ## Table of Contents
+## 🧭 Table of Contents
 Getting Started
 
 Daily Logs
