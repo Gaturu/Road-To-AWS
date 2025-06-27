@@ -10,7 +10,7 @@ This repository documents my journey as I prepare for the AWS Certified Solution
 
 Whether you're just starting or you're already in the cloud, you're welcome to learn with me.
 
-🧭 ##Table of Contents
+🧭 ## Table of Contents
 Getting Started
 
 Daily Logs
@@ -23,7 +23,7 @@ How to Contribute
 
 License
 
-🚦 ##Getting Started
+🚦 ## Getting Started
 To explore a topic:
 
 Browse the days/ or topics/ directory.
@@ -32,7 +32,7 @@ Open the day's folder to see notes, code, and walkthroughs.
 
 Follow along, fork the repo, or raise issues if something is unclear.
 
-📅 ##Daily Logs
+📅 ## Daily Logs
 Day	Topic	Status
 Day 01	Introduction to AWS Cloud	✅ Completed
 Day 02	IAM – Identity and Access Management	✅ Completed
@@ -41,7 +41,7 @@ Day 03	Amazon EC2 – Compute Essentials	🛠️ In Progress
 
 🧠 Logs updated daily – stay tuned.
 
-📌 ##Topics Covered
+📌 ## Topics Covered
 🧭 AWS Overview & Global Infrastructure
 
 🔐 IAM, Policies & Permissions
@@ -62,7 +62,7 @@ Day 03	Amazon EC2 – Compute Essentials	🛠️ In Progress
 
 And more to come...
 
-📚 ##Useful Resources
+📚 ## Useful Resources
 AWS Official Documentation
 
 FreeCodeCamp AWS Certification Course
@@ -71,7 +71,7 @@ AWS Tutorials Dojo
 
 Awesome AWS on GitHub
 
-🤝 ##How to Contribute
+🤝 ## How to Contribute
 If you'd like to suggest a topic, fix a typo, or add a helpful resource:
 
 Fork the repository
