@@ -87,9 +87,9 @@ IAM enables you to:
 ## 🧠 IAM Best Practices to Follow
 To start off right, keep these in mind:
 
-🚫 Don’t use the root account for daily tasks
+* 🚫 Don’t use the root account for daily tasks
 
-🔐 Enable MFA for all users, especially the root user
+* 🔐 Enable MFA for all users, especially the root user
 
 👥 Use groups to manage permissions consistently
 
@@ -99,7 +99,7 @@ To start off right, keep these in mind:
 
 📊 Audit activity with AWS CloudTrail
 
-🔍 Understand the IAM "AAA" Model
+# 🔍 Understand the IAM "AAA" Model
 IAM is built around three pillars:
 
 Authentication – Who are you?
@@ -116,7 +116,8 @@ IAM is one of the first AWS services you should master — because without prope
 Take the time to practice setting up IAM users, groups, and policies in your AWS account. Try creating a user, assigning permissions via a group, and testing out MFA. These are the real-world skills that make you not just a cloud user — but a cloud builder.
 
 
-# additional Resources
+#  additional Resources
 
 [AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html)
+
 
