@@ -35,7 +35,7 @@ When you first create an AWS account, AWS automatically creates a root user. Thi
 Immediately secure the root account with **MFA**
 
 Create individual **IAM users** for anyone who needs access
-
+ sta
 ## 👥 IAM Users, Groups & Permissions
 IAM has four components. Let’s break this down:
 
