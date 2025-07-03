@@ -1,7 +1,7 @@
 # 🔐 IAM – Identity and Access Management
 
 Welcome to the Second day of the **Road to AWS Cloud** series.  
-In this part, we’ll explore the **Identity and Access Management** — What it is,How AM works, Its key components that make it work, and the purpose.
+In this part, we’ll explore the **Identity and Access Management** — What it is, How AM works, Its key components, and the purpose and benefits.
 
 ## DAY 2: Mastering Access – A Journey into AWS IAM
 
