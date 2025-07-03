@@ -37,7 +37,7 @@ Immediately secure the root account with **MFA**
 Create individual **IAM users** for anyone who needs access
 
 ## 👥 IAM Users, Groups & Permissions
-Let’s break this down:
+IAM has four components. Let’s break this down:
 
 ## IAM Users
 These are individual identities that represent people or applications accessing AWS services. it primaryly c
@@ -50,15 +50,17 @@ This keeps your access control organized and scalable.
 # Policies
 IAM policies are JSON documents that define permissions. They describe:
 
-Effect: Allow or Deny
+**Effect**: Allow or Deny
 
-Action: What the user can do (e.g., s3:PutObject)
+**Action**: What the user can do (e.g., s3:PutObject)
 
-Resource: Which resource the action applies to
+**Resource**: Which resource the action applies to
 
-Condition: (Optional) When, where, or how the access is granted
+**Condition**: (Optional) When, where, or how the access is granted
 
-IAM follows a default deny model — if it’s not explicitly allowed, it’s denied.
+**IAM follows a default deny model** — if it’s not explicitly allowed, it’s denied.
+
+Policies can be attached to either Us**users**, ***groups** or ***roles**
 
 # 🔑 How Users Access AWS
 Once users are created and permissions are granted, they can access AWS in a the following three ways:
