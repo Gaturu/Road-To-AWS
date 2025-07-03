@@ -1,7 +1,7 @@
 # 🔐 IAM – Identity and Access Management
 
 Welcome to the Second day of the **Road to AWS Cloud** series.  
-In this part, we’ll explore the **Identity and Access Management** — What it is, How AM works, Its key components, and the purpose and benefits.
+In this part, we’ll explore the **Identity and Access Management** — What it is, How IAM works, Its key components, and the purpose and benefits.
 
 ## DAY 2: Mastering Access – A Journey into AWS IAM
 
@@ -9,7 +9,7 @@ In this part, we’ll explore the **Identity and Access Management** — What it
 ---
 
 ## What is AWS IAM?
-AWS Identity and Access Management (IAM) is a service that helps you securely control and manage access to AWS services and resources. It allows you to define who can access what, when, and how — which makes it a foundational piece of any secure AWS environment.
+**AWS Identity and Access Management (IAM)** is a service that helps you securely control and manage access to AWS services and resources. It allows you to define who can access what, when, and how — which makes it a foundational piece of any secure AWS environment.
 
 ## Why use  AWS IAM?
 IAM is used in AWS to securely manage who can access resources and services in your AWS eniroment and what can they do with the level of access.
