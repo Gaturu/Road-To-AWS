@@ -40,7 +40,7 @@ Create individual **IAM users** for anyone who needs access
 IAM has four components. Let’s break this down:
 
 ## IAM Users
-These are individual identities that represent people or applications accessing AWS services. it primaryly c
+These are individual identities that represent people or applications accessing AWS services. it primaryly consist of user and credentials
 
 ## IAM Groups
 This refers to a collection of IAM users.
@@ -121,5 +121,7 @@ Take the time to practice setting up IAM users, groups, and policies in your AWS
 #  additional Resources
 
 [AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html)
+[Complete Guide to AWS Identity and Access Management (IAM)](https://www.datacamp.com/tutorial/aws-identity-and-access-management-iam-guide)
+
 
 
