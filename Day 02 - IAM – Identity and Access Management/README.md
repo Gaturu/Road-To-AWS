@@ -121,7 +121,9 @@ Take the time to practice setting up IAM users, groups, and policies in your AWS
 #  additional Resources
 
 [AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html)
+
 [Complete Guide to AWS Identity and Access Management (IAM)] (https://www.datacamp.com/tutorial/aws-identity-and-access-management-iam-guide)
+
 [IAM Blog post](https://medium.com/@gaturugaturu/mastering-iam-securing-access-in-the-cloud-e1c45fb0d78e)
 
 
