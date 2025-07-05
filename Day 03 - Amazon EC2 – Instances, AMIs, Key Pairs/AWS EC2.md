@@ -173,5 +173,5 @@ EC2 gives you the power to run anything in the cloud — from small apps to big 
 
 #  Additional Resources
 
-[AWS skillbuilder](https://skillbuilder.aws/learning-plan/HPHTFD145W/compute-learning-plan-amazon-ec2/4U1XSAFFG2)
+[AWS skillbuilder-Amazon EC2](https://skillbuilder.aws/learning-plan/HPHTFD145W/compute-learning-plan-amazon-ec2/4U1XSAFFG2)
 
