@@ -1,10 +1,6 @@
-# 🔐 IAM – Identity and Access Management
+# 🔐 EC2 – Amazon Elastic Compute Cloud
 
 Welcome to Day 3 of the **Road to AWS Cloud and Certification** Journey. Today, we dive deep into one of the most critical services in the AWS ecosystem: **Amazon EC2 (Elastic Compute Cloud)**. This powerful service forms the compute layer of AWS and allows you to provision **virtual servers** to run your applications seamlessly.
-
-
-## DAY 3: AWS EC2 Instance Types and Use Cases
----
 
 ## What is AWS EC2?
 **Amazon EC2** is a web service that provides secure, resizable compute capacity in the cloud. With this service, you can provision virtual servers called EC2 instances
