@@ -116,11 +116,11 @@ This is the simplest pricing model — perfect for when your workload is **short
 
 💳 You can choose from:
 
-No Upfront – Pay monthly, no upfront cost
+* No Upfront – Pay monthly, no upfront cost
 
-Partial Upfront – Pay some upfront, get better savings
+* Partial Upfront – Pay some upfront, get better savings
 
-All Upfront – Pay it all at once for the biggest discount
+* All Upfront – Pay it all at once for the biggest discount
 
 **Use Case**: Production workloads running 24/7, predictable usage patterns
 
@@ -165,4 +165,15 @@ You control instance placement and can bring your own server-bound software lice
 Unlike Dedicated Hosts, Dedicated Instances still run on hardware that’s exclusive to you, but you don’t control where they’re placed on the host.
 
 **Use Case**: When you need instance-level isolation without managing the underlying host.
+
+
+# Conclusion
+
+EC2 gives you the power to run anything in the cloud — from small apps to big data systems — with the flexibility to choose the right instance type and pricing model for your needs. Whether you're just testing or running production at scale, knowing how to pick the right setup can save you time and money. Take time to explore, experiment, and find what works best for your project.
+
+#  Additional Resources
+
+[AWS skillbuilder]([https://docs.aws.amazon.com/IAM/latest/UserGuide/id_groups.html](https://skillbuilder.aws/learning-plan/HPHTFD145W/compute-learning-plan-amazon-ec2/4U1XSAFFG2))
+
+
 
