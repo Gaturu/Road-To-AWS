@@ -117,8 +117,8 @@ Each of these storage solutions plays a distinct role in AWS architecture. Wheth
 🎯 **Next Up – Day 5:**  
 We’ll explore **Elastic Load Balancing (ELB)** and **Auto Scaling** — the magic that powers dynamic scaling and fault tolerance in the AWS cloud.
 
-📖 **Blog version available here:** [Read on Medium](#)
+📖 **Blog version available here:** [Read on Medium](https://medium.com/@gaturugaturu/unlocking-aws-ec2-storage-a-complete-guide-to-ebs-efs-instance-store-526e74e8e06d)
 
 📂 **Explore more or contribute:**  
-[🔗 GitHub Repository: Road to AWS Cloud](#)
+[🔗 GitHub Repository: Road to AWS Cloud](https://github.com/Gaturu/Road-To-AWS)
 
