@@ -1,4 +1,4 @@
-<p align="center">
+<p align="">
   <img src="https://github.com/Gaturu/Road-To-AWS/blob/prod/Road%20To%20AWS.png?raw=true" alt="Road to AWS Cloud" width="800"/>
 </p>
 
